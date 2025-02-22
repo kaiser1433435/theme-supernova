@@ -3,7 +3,8 @@
     "author": "KAISER!",
     "version": "0.0.1",
     "name": "SUPERNOVA!",
-    "transparency_mode": 3
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/theme-supernova/refs/heads/main/SUPERNOVA!.json"
   },
   "background": {
     "portain": {
