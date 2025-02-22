@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "author": "KAISER!",
+    "version": "0.0.1",
+    "name": "SUPERNOVA!",
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/theme-supernova/refs/heads/main/SUPERNOVA!.json"
+  },
+  "background": {
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    },
+    "overlay_alpha": 160,
+    "blur_radius": 0,
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1342773385637134398/Untitled514_20250222162056.png?ex=67badaaa&is=67b9892a&hm=b0787a9faa9b8ad189048385ddb36581aada3ef36cd059fea42984fff1ece220&"
+  },
+  "simple_colors": {
+    "accent": -3184648,
+    "mention_highlight": -1478912517
+  },
+  "colors": {
+    "link": -2518531
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -1659144
+  }
+}
